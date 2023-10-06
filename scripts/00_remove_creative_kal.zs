@@ -71,6 +71,15 @@ JEI.hideIngredient(<item:refinedstorageaddons:creative_wireless_crafting_grid>);
 JEI.hideIngredient(<item:storagedrawers:creative_storage_upgrade>);
 JEI.hideIngredient(<item:storagedrawers:creative_vending_upgrade>);
 
+/* The Vault */
+JEI.hideIngredient(<item:the_vault:mob_barrier>);
+JEI.hideIngredient(<item:the_vault:t0_miner_zombie_egg>);
+JEI.hideIngredient(<item:the_vault:t1_miner_zombie_egg>);
+JEI.hideIngredient(<item:the_vault:t2_miner_zombie_egg>);
+JEI.hideIngredient(<item:the_vault:t3_miner_zombie_egg>);
+JEI.hideIngredient(<item:the_vault:t4_miner_zombie_egg>);
+JEI.hideIngredient(<item:the_vault:t5_miner_zombie_egg>);
+
 /* Thermal Series */
 JEI.hideIngredient(<item:thermal:rf_coil_creative_augment>);
 JEI.hideIngredient(<item:thermal:fluid_tank_creative_augment>);
