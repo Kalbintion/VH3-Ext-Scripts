@@ -14,7 +14,7 @@ JEI.hideIngredient(<item:ae2:creative_fluid_cell>);
 JEI.hideIngredient(<item:botania:creative_pool>);
 JEI.hideIngredient(<item:botania:infrangible_platform>);
 JEI.hideIngredient(<item:botania:lens_storm>);
-JEI.hideIngredient(<item:botania:mana_tablet>); // NBT TAG!
+JEI.hideIngredient(<item:botania:mana_tablet>.withTag({mana: 500000 as int, creative: 1 as byte})); // NBT TAG!
 JEI.hideIngredient(<item:botania:corporea_spark_creative>);
 
 /* Building Gadgets */
