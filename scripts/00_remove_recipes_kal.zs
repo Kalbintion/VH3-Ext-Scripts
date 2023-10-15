@@ -9,7 +9,7 @@ for Iskall85's Vaulthunters
 import mods.jei.JEI;
 
 /* AE2 */
-JEI.hideIngredient(<item:ae2:identity_annihilation_plank>);
+JEI.hideIngredient(<item:ae2:identity_annihilation_plane>);
 
 /* Botania */
 JEI.hideIngredient(<item:botania:mana_tablet>.withTag({mana: 500000 as int}));
