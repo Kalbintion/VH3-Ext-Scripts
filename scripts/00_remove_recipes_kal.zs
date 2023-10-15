@@ -8,8 +8,11 @@ for Iskall85's Vaulthunters
 
 import mods.jei.JEI;
 
+/* AE2 */
+JEI.hideIngredient(<item:ae2:identity_annihilation_plank>);
+
 /* Botania */
-JEI.hideIngredient*(<item:botania:mana_tablet>.withTag({mana: 500000 as int}));
+JEI.hideIngredient(<item:botania:mana_tablet>.withTag({mana: 500000 as int}));
 
 /* Create */
 JEI.hideIngredient(<item:minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: "create:potato_recovery" as string}]}));
