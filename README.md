@@ -14,10 +14,10 @@ Download the scripts file you're interested in using (see below for details) and
 The scripts are split into two separate categories, ones that do not change the gameplay mechanics of the pack at all, and ones that do add/adjust recipes to the pack that would be gameplay altering. Any scripts that are gameplay altering will be starting with `99_` in the filename to denote this.
 
 ## 
-* [00_remove_recipes.kal.zs](scripts/00_remove_recipes_kal.zs) &mdash; Removes items that are impossible to obtain through survival means or are excessive (eg: empty/filled charge items) to reduce the amount of clutter for recipes and listings in JEI.
-* [00_remove_creative_kal.zs](scripts/00_remove_creative_kal.zs) &mdash; Removes creative only items that are impossible to obtain through survival means to reduce the amount of clutter in JEI.
+* [00_remove_recipes.kal.zs](scripts/00_remove_recipes.kal.zs) &mdash; Removes items that are impossible to obtain through survival means or are excessive (eg: empty/filled charge items) to reduce the amount of clutter for recipes and listings in JEI.
+* [00_remove_creative_kal.zs](scripts/00_remove_creative.kal.zs) &mdash; Removes creative only items that are impossible to obtain through survival means to reduce the amount of clutter in JEI.
 * [01_additional_tags.kal.zs](scripts/01_additional_tags.kal.zs) &mdash; Adds some more item tags to various items/blocks in the pack that are otherwise tedious to setup filters for.
-* [zz_mekanism_notes_kal.zs](scripts/zz_mekanism_notes_kal.zs) &mdash; Adds into JEI information about the basic, advanced, elite, ultimate factories found in Mekanism to inform players that they need to use the tier upgrade items.
+* [zz_mekanism_notes_kal.zs](scripts/zz_mekanism_notes.kal.zs) &mdash; Adds into JEI information about the basic, advanced, elite, ultimate factories found in Mekanism to inform players that they need to use the tier upgrade items.
 
 ## Gameplay Tweaking
 * [99_additional_recipes.kal.zs](scripts/99_additional_recipes.kal.zs) &mdash; Adds additional recipes for the orechid for modded ores and for the vault fruit to be upgraded in quality, including to the mystic pear.
